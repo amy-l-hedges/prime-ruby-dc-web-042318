@@ -1,10 +1,10 @@
 # Add  code here!
- def prime?(number)
-  for x in 2..(Math.sqrt(y))
-   if (y % x) == 0
+ def prime?(num)
+  for d in 2..(num - 1)
+   if (num % d) == 0
     return false
    end
   end
+
   true
  end
- 
