@@ -1,10 +1,12 @@
 # Add  code here!
  def prime?(number)
-  for d in 2..(Math.sqrt(n))
-   if (n % d) == 0
+  for x in 2..(Math.sqrt(y))
+   if (y % x) == 0
     return false
    end
   end
+
+prime?(17)
 
   true
  end
