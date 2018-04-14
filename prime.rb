@@ -8,4 +8,3 @@
   true
  end
  
-prime?(17)
