@@ -5,8 +5,7 @@
     return false
    end
   end
-
-prime?(17)
-
   true
  end
+ 
+prime?(17)
